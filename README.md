@@ -59,3 +59,13 @@
     <img src="https://img.shields.io/badge/-World_Athletics-4169E1?style=for-the-badge&logo=workplace&logoColor=white" alt="work athletics"/>
   </a>
 </p>
+
+<br/>
+
+## 📈 My GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhong&show_icons=true&theme=blue-green" />
+  </a>
+</p>
