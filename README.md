@@ -15,8 +15,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
   </a>
-  <br/>
-  <br/>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
   </a>
