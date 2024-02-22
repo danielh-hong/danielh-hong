@@ -5,7 +5,7 @@
 - 🌱 I’m currently improving my **Solidworks** skills
 - 💬 Ask me about University, Engineering Science, Track and Field, or Digital Design.
 - 📫 How to reach me: **danielh.toronto@gmail.com**
-- ⚡ Fun fact: **Love kayaking**
+- 📙 My website: https://daniel-hong.org/
 
 <br/>
 
@@ -61,11 +61,3 @@
 </p>
 
 <br/>
-
-## 📈 My GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhong&show_icons=true&theme=blue-green" />
-  </a>
-</p>
