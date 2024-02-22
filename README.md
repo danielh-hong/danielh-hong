@@ -46,8 +46,6 @@
   <a href="https://daniel-hong.org" target="_blank">
     <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
-  <br/>
-  <br/>
   <a href="https://athletics.ca/athlete/daniel-hong/" target="_blank">
     <img src="https://img.shields.io/badge/-Track_and_Field-1E90FF?style=for-the-badge&logo=sportradar&logoColor=white" alt="track and field"/>
   </a>
