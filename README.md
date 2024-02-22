@@ -30,8 +30,6 @@
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Java-0000FF?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   </a>
-  <br/>
-  <br/>
   <a href="https://www.solidworks.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Solidworks-1E90FF?style=for-the-badge&logo=solidworks&logoColor=white" alt="solidworks"/>
   </a>
