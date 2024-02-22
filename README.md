@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Daniel Hong</h1>
 <h2 align="center">An Engineering Science Student @ The University of Toronto</h2>
+<br/>
 
-- 🔭 I’m currently working on developing a drone.
-- 🌱 I’m currently improving my **Solidworks** skills
-- 💬 Ask me about University, Engineering Science, Track and Field, or Digital Design.
 - 📫 How to reach me: **danielh.toronto@gmail.com**
 - 📙 My website: https://daniel-hong.org/
 
