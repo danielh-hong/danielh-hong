@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Daniel Hong</h1>
-<h2 align="center">An Engineering Science Student @ The University of Toronto</h2>
+<h2 align="center">Engineering Science Student @ The University of Toronto</h2>
 <br/>
 
 - 📫 How to reach me: **danielh.toronto@gmail.com**
